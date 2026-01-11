@@ -19,15 +19,6 @@ with writing and structure specialized for the IT and AI fields.
 
 ---
 
-## Project Overview
-
-### Watch on YouTube
-[![How to Automatically Generate Investment-Ready Business Plans with GPT (No Free Templates Needed)](https://github.com/user-attachments/assets/6567f03e-46bf-434b-b7c5-b3ea9c949c2d)](https://youtu.be/hBg6FTkbs00)
-
-#### [Slide Materials Here](https://github.com/truthwave/GPT-for-new-business-plan-proposals/blob/main/English/Materials/New%20Business%20Plan%20Creation%20GPT.pdf)
-
----
-
 ## 🚀 Effects
 
 - Build belief in the future with the first 10 slides
